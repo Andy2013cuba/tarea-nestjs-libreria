@@ -46,9 +46,9 @@ $ npm run start:prod
 ```
 
 ## Migrations
-```variable RUN_MIGRATIONS_AND_SEEDING= true para correr la migration al correr el proyecto, poner en false si ya la bd esta creada
+variable RUN_MIGRATIONS_AND_SEEDING= true para correr la migration al correr el proyecto, poner en false si ya la bd esta creada
 
-```
+
 
 ## Support
 
